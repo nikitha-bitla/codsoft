@@ -38,7 +38,14 @@ This is my personal portfolio website built using HTML and CSS, showcasing my sk
 ### 8. **Contact Section**
    - Provides my contact information, including links to my resume (`resume.pdf`) and certificate (`dapcom_paper_certif.pdf`).
 
-media/portfolio_video.mp4
+## Here's how the website looks
+
+![portfolio1](portfolio1.png)
+![portfolio2](portfolio2.png)
+![portfolio3](portfolio3.png)
+![portfolio4](portfolio4.png)
+![portfolio5](portfolio5.png)
+
 
 ## How to View
 
