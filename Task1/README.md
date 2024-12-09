@@ -40,13 +40,6 @@ This is my personal portfolio website built using HTML and CSS, showcasing my sk
 
 ## Here's how the website looks
 
-![portfolio1](portfolio1.png)
-![portfolio2](portfolio2.png)
-![portfolio3](portfolio3.png)
-![portfolio4](portfolio4.png)
-![portfolio5](portfolio5.png)
-
-
 ## How to View
 
 1. Clone this repository to your local machine:
