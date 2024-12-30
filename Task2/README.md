@@ -1,4 +1,4 @@
-# Nikitha Landing Page
+# Landing Page
 
 This project is a simple and responsive landing page created as part of the CodSoft Web Development Internship (Level 1: Task 2). The page demonstrates fundamental HTML and CSS skills to design a functional and visually appealing web layout.
 
