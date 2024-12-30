@@ -58,15 +58,8 @@ This repository contains the completed tasks for the CodSoft Web Development Int
 
 ---
 
-## How to Run
-1. Clone this repository or download the files.
-2. Open the respective `.html` file in a web browser to view each task.
-3. For Task 3, ensure JavaScript is enabled in your browser for full functionality.
-
----
-
 ## Author
-- **Name:** Nikitha Bitla
+- **Name:** Nikitha Reddy Bitla
 - **Role:** Web Development Intern
 
 ---
